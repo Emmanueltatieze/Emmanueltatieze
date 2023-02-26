@@ -2,10 +2,10 @@
 
 ### Hi 👋 I'm Emmanuel 👨‍💻
 
-I'm a maths lover and XR Developer based in Angoulême.<br/>
-My interests are mainly in virtual environment.<br/>
+I'm a maths lover and Developer based in Limoges.<br/>
+My interests are mainly in software environment.<br/>
 
-I study at the national school of video games (<a href="https://enjmin.cnam.fr/enjmin/ecole-nationale-du-jeu-et-des-medias-interactifs-accueil-1126103.kjsp">ENJMIN</a>), and I've just signed for a work-study contract with the CNAM where my mission is to develop virtual twins 😄.
+I study at Institut informatique de Limoges (<a href="https://www.3il-ingenieurs.fr/">3iL</a>),Here are some projects i've already done 😄.
 
 ## Featured Projects
 
@@ -19,7 +19,6 @@ I study at the national school of video games (<a href="https://enjmin.cnam.fr/e
 | <a href="https://github.com/WillN-Git/Paint-Clone"><img src="https://github.com/WillN-Git/Paint-Clone/blob/main/MDImages/paint-clone-shorts.gif" width="600px" /></a><br/><a href="https://github.com/WillN-Git/Paint-Clone">Paint Clone</a> | <a href="https://github.com/WillN-Git/Paint-Clone"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="" width="24px" /></a> | Java, <a href="https://slick.ninjacave.com/javadoc/">Slick2D</a> (lwjgl) |
 
 <!--
-**WillN-Git/WillN-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -35,6 +34,6 @@ Here are some ideas to get you started:
 
 ## Get in touch 
 
-fotsondw@gmail.com
+emmanueltatieze@gmail.com
 
-[![Linkedin: Wilfried Ndefo](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomasdunn891/)](https://www.linkedin.com/in/wilfried-ndefo/)
+[![Linkedin: Emmanuel Tatieze](https://www.linkedin.com/in/emmanuel-tatieze-b9449921b/)]
