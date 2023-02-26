@@ -1,6 +1,6 @@
-### Hi there 👋
+###
 
-### Hi 👋 I'm Will 👨‍💻
+### Hi 👋 I'm Emmanuel 👨‍💻
 
 I'm a maths lover and XR Developer based in Angoulême.<br/>
 My interests are mainly in virtual environment.<br/>
