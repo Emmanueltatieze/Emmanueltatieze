@@ -2,7 +2,7 @@
 
 ### Hi 👋 I'm Emmanuel 👨‍💻
 
-I'm a maths lover and Developer based in Limoges.<br/>ezgif.com-video-to-gif.gif
+I'm a maths lover and Developer based in Limoges.
 My interests are mainly in software and programing environment.<br/>
 
 I study at Institut informatique de Limoges (<a href="https://www.3il-ingenieurs.fr/">3iL</a>),Here are some projects i've already done 😄.
